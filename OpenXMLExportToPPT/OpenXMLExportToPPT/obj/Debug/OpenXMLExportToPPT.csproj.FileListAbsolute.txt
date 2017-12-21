@@ -1,0 +1,17 @@
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\bin\OpenXMLExportToPPT.dll.config
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\bin\OpenXMLExportToPPT.dll
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\bin\OpenXMLExportToPPT.pdb
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.csprojResolveAssemblyReference.cache
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.dll
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.pdb
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\bin\DocumentFormat.OpenXml.dll
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.Properties.Resources.resources
+F:\Magdy\task2\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.csproj.GenerateResource.Cache
+C:\Users\Magdy\Desktop\OpenXMLExportToPPT\OpenXMLExportToPPT\bin\OpenXMLExportToPPT.dll
+C:\Users\Magdy\Desktop\OpenXMLExportToPPT\OpenXMLExportToPPT\bin\OpenXMLExportToPPT.pdb
+C:\Users\Magdy\Desktop\OpenXMLExportToPPT\OpenXMLExportToPPT\bin\DocumentFormat.OpenXml.dll
+C:\Users\Magdy\Desktop\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.Properties.Resources.resources
+C:\Users\Magdy\Desktop\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.csproj.GenerateResource.Cache
+C:\Users\Magdy\Desktop\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.dll
+C:\Users\Magdy\Desktop\OpenXMLExportToPPT\OpenXMLExportToPPT\obj\Debug\OpenXMLExportToPPT.pdb
